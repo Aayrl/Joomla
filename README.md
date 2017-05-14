@@ -1,4 +1,4 @@
 Joomla
 ======
 
-Joomla 2.5 / 3.0 Scripts, Modules, Components and Plugins
+Joomla 3.x Scripts, Modules, Components and Plugins
